@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string-array name="default_city_names">
+      <item>Potsdam</item>
+      <item>Bonn</item>
+      <item>Muenchen</item>
+      <item>Berlin</item>
+      <item>Hanover</item>
+      <item>Stuttgart</item>
+      <item>Dresden</item>
+   </string-array>
+   <string-array name="default_city_zipcodes">
+      <item>2852458</item>
+      <item>2946447</item>
+      <item>2867714</item>
+      <item>2950159</item>
+      <item>4938836</item>
+      <item>2825297</item>
+      <item>2935022</item>
+   </string-array>
+</resources>
